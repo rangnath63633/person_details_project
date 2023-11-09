@@ -23,3 +23,6 @@ mycursor.execute("select * from student")
 #     print(i)
 
 mycursor.execute("insert into student values('Jhon','RMIT')")
+
+print("hello changes done")
+print("check the code in git hub repository")
